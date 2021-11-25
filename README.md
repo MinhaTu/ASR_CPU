@@ -25,3 +25,5 @@ This projects aims to build a simple Single-cycle prossecor based on the MIPS ar
     -Mutex;
     -Sign_extend modules.
     
+### Main circuit scheme
+![plot](./Images/circuitry.png)
